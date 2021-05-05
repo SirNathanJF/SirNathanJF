@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SirNathanJF
-- 👀 I’m interested in ... lots! Coding and more, I am just getting started
+- 👀 I’m interested in ... coding and learning web/software development! I also love dogs and bees and if I am not working or playing video games I am outside!
 - 🌱 I’m currently learning ... I am participating in a bootcamp!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
