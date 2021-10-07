@@ -15,7 +15,7 @@ Skills: HTML / CSS / JS / nodejs / express / MYSQL / handlebars / and more to co
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SirNathanJF&show_icons=true&theme=darcula)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SirNathanJF1&theme=darcula)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SirNathanJF&theme=darcula)  
 
 ![Profile views](https://gpvc.arturio.dev/SirNathanJF)  
 
