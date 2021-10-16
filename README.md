@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirNathanJF
 - 👀 I’m interested in ... coding and learning web/software development! I also love dogs and bees and if I am not working or playing video games I am outside!
-- 🌱 I’m currently learning ...  as much as I can! I have delved deep into web development and I am trying to learn anythiung and everything that I can. 
+- 🌱 I’m currently learning ...  ReactJS and associated frameworks. 
 - 💞️ I’m looking to collaborate on ... I am new in my development career, but I am happy to lend a hand wherever I can in order to get more experience!
 - 📫 How to reach me ... nathanflessner1@gmail.com
 
