@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... I am new in my development career, but I am happy to lend a hand wherever I can in order to get more experience!
 - 📫 How to reach me ... nathanflessner1@gmail.com
 
-Skills: HTML / CSS / JS / nodejs / express / MYSQL / handlebars / MongoDB / ReactJS / GraphQL/ and more to come!
+Skills: HTML / CSS / JS / nodejs / express / MYSQL / handlebars / MongoDB / ReactJS / GraphQL / Redux / Angular 2+ / NgRx and more to come!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SirNathanJF)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nathan-flessner/)
 
